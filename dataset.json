@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for New Hampshire, US",
+  "export_job_id": "0cb34a93-6e62-4a71-87c4-444808028d67",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 570769,
+  "location_name": "New Hampshire",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-new-hampshire-us-sample-570769",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/570769/beamstation_570769_restaurants-us-nh_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 27,
+  "sample_sha256": "ab67ec2cf7749887d104c7dab564011eeb1f3f9b77a5eba779034bd0ed654cd0",
+  "sample_size_bytes": 117434,
+  "total_records": 270,
+  "updated_at": "2026-04-07T18:42:19.203345+00:00"
+}
