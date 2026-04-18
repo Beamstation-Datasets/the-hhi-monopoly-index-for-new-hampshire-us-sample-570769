@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for New Hampshire, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `570769` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 270 records |
-| Free sample size | 27 records (10.0%) |
-| Last export | 2026-04-07T18:42:19.203345+00:00 |
+| Full dataset size | 251 records |
+| Free sample size | 25 records (9.96%) |
+| Last export | 2026-04-14T23:55:13.864263+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-new-hampshire-us-sample-570769/releases/download/sample-latest/beamstation_570769_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
