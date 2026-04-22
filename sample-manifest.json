@@ -1,12 +1,12 @@
 {
-  "export_job_id": "592c9c1a-cd6a-4d48-a002-74cc2477623e",
+  "export_job_id": "5e2369ce-6dd6-4990-a7cc-e2d0514f566b",
   "id_short": 570769,
-  "published_at": "2026-04-18T19:23:49Z",
+  "published_at": "2026-04-22T07:40:31Z",
   "repo_name": "the-hhi-monopoly-index-for-new-hampshire-us-sample-570769",
   "sample_asset_name": "beamstation_570769_restaurants-us-nh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/570769/beamstation_570769_restaurants-us-nh_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "cb0fb74a4cc7c390dcd7390b41194d46af3de1bb2620630f0ddce858c1ac480f",
-  "sample_size_bytes": 109228,
-  "total_records": 251
+  "sample_records": 19,
+  "sample_sha256": "88e3df937699052dcd7970664b5f631399316e3272510ff0ecccdb31b5d42b4d",
+  "sample_size_bytes": 86073,
+  "total_records": 196
 }
